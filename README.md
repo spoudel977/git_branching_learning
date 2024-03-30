@@ -28,6 +28,7 @@ git rm .DS_Store
 
 ## Move the Untracked File:
 If you want to keep the file but move it out of the way temporarily, you can move it to a different location outside of the repository. You can do this using the following command:
-
-
 mv .DS_Store /path/to/desired/location/
+
+## Resource used
+https://www.youtube.com/watch?v=GZILYABgAoo
