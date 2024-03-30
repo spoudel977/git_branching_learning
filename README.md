@@ -21,3 +21,13 @@ Step 6: Merge new branch in master branch
         git merge "branch name"
         
 
+## Remove the Untracked File:
+You can remove the untracked file .DS_Store from your working directory. You can do this using the following command:
+git rm .DS_Store
+
+
+## Move the Untracked File:
+If you want to keep the file but move it out of the way temporarily, you can move it to a different location outside of the repository. You can do this using the following command:
+
+
+mv .DS_Store /path/to/desired/location/
